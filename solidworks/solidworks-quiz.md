@@ -53,7 +53,7 @@
 #### Q7. You want to make two circles have the same center point within a SOLIDWORKS sketch. How can you do this?
 
 - [ ] Add a tangent relation between the circles
-- [ ] Add a concentric relation between the circles
+- [x] Add a concentric relation between the circles
 - [ ] Add a horizontal relation between the circles
 - [ ] Add an equal relation between the circles
 
